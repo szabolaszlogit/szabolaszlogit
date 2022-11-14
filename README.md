@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @szabolaszlogit
 
-  [akvamania.hu](https://www.akvamania.hu/)
+  🐟 [akvamania.hu](https://www.akvamania.hu/)
   
-  [alaphang.com](https://www.alaphang.com)
+  🎸 [alaphang.com](https://www.alaphang.com)
   
-  [learnjs.hu](https://www.learnjs.hu)
+  💻 [learnjs.hu](https://www.learnjs.hu)
   
 
 - 👀 I’m interested in 
