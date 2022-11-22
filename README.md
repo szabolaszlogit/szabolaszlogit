@@ -6,6 +6,8 @@
   
   💻 [learnjs.hu](https://www.learnjs.hu)
   
+     [Rock, paper, scissors](https://games-peach.vercel.app/)
+  
 
 - 👀 I’m interested in 
 
