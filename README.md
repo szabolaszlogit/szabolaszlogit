@@ -4,6 +4,8 @@
   
   🎸 [alaphang.com](https://www.alaphang.com)
   
+   [rozsaly.hu](https://rozsaly.hu/)
+  
   💻 [learnjs.hu](https://www.learnjs.hu)
   
   🎲 [Games](https://games-peach.vercel.app/)
