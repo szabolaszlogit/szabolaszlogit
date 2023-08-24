@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @szabolaszlogit
 
-  🐟 [akvamania.hu](https://www.akvamania.hu/)
-  
-  🎸 [alaphang.com](https://www.alaphang.com)
-  
    [rozsaly.hu](https://rozsaly.hu/)
   
   💻 [learnjs.hu](https://www.learnjs.hu)
